@@ -3,3 +3,4 @@ chmod 755
 chmod -R ugo+X . 
 chmod 755 hello
 chmod 755 hello
+chmod ugo+x
