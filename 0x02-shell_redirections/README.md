@@ -1,1 +1,1 @@
-My 0x02-shell_redirections README file
+My 0x02-shell_REdirections Readme file
